@@ -1,2 +1,2 @@
-# Platformer Game
+# vertical platformer game
  
